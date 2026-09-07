@@ -1,0 +1,10 @@
+Dataset.py/
+noisy_dataset/
+denoised_dataset/
+denoising_results/
+best_denoising_model.pth
+best_denoising_model_old.pth
+denoising_model.pth
+__pycache__/
+*.pyc
+.DS_Store
