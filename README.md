@@ -1,4 +1,3 @@
-# Image_Denoising-system
 # Image Denoising using Deep Learning
 
 This project is about removing Gaussian noise from images using a deep learning model built with PyTorch.
